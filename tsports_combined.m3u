@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CRI: T SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXEt0mLEbCc7_nwOltfVTtRh95_ytannxqgaeskHI0rfCxd85v3LSaeZ4&s=10" group-title="T Sports | jio-bd-4x",CRI: T SPORTS FHD
+http://starhub.pro:80/live/farhat-3379/67897-913379/18452.ts
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CRI: T SPORTS." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXEt0mLEbCc7_nwOltfVTtRh95_ytannxqgaeskHI0rfCxd85v3LSaeZ4&s=10" group-title="T Sports | jio-bd-4x",CRI: T SPORTS.
+http://starhub.pro:80/live/farhat-3379/67897-913379/130714.ts
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CRI: T SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXEt0mLEbCc7_nwOltfVTtRh95_ytannxqgaeskHI0rfCxd85v3LSaeZ4&s=10" group-title="T Sports | jio-bd-4x",CRI: T SPORTS HD
+http://starhub.pro:80/live/farhat-3379/67897-913379/113069.ts
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXEt0mLEbCc7_nwOltfVTtRh95_ytannxqgaeskHI0rfCxd85v3LSaeZ4&s=10" group-title="T Sports | jio-bd-4x",T SPORTS
+http://starhub.pro:80/live/farhat-3379/67897-913379/52500.ts
+
+#EXTINF:-1 group-title="T Sports | filexupx1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXEt0mLEbCc7_nwOltfVTtRh95_ytannxqgaeskHI0rfCxd85v3LSaeZ4&s=10",BD | T Sports HD
+https://xfireflix.my.id/nefl.php?id=111409.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXEt0mLEbCc7_nwOltfVTtRh95_ytannxqgaeskHI0rfCxd85v3LSaeZ4&s=10" group-title="T Sports | Pocket-TV",T Sports
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1142.ts
+
+#EXTINF:-1 tvg-id="23937" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXEt0mLEbCc7_nwOltfVTtRh95_ytannxqgaeskHI0rfCxd85v3LSaeZ4&s=10" group-title="T Sports | sf-playlist",T SPORTS.
+https://ads-27727.icu/sf/play.php?id=23937
+
+#EXTINF:-1 tvg-id="18359" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXEt0mLEbCc7_nwOltfVTtRh95_ytannxqgaeskHI0rfCxd85v3LSaeZ4&s=10" group-title="T Sports | sf-playlist",T Sports
+https://ads-27727.icu/sf/play.php?id=18359
+
+#EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXEt0mLEbCc7_nwOltfVTtRh95_ytannxqgaeskHI0rfCxd85v3LSaeZ4&s=10" group-title="T Sports | senkuboy",T Sports HD
+http://114.130.57.233:8080/LIVE-Sports/video.m3u8?token=SkQuhAXZxgBan1
